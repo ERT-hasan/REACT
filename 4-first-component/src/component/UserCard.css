@@ -1,0 +1,17 @@
+.user-container{
+    padding: 10px;
+   color: chartreuse;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   gap: 1.5rem;
+   align-items: center;
+   margin: 1rem;
+    
+
+}
+#user-img{
+   width: 120px;
+   border-radius: 40%;
+  
+}
